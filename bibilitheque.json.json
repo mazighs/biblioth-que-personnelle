@@ -1,0 +1,70 @@
+
+
+[
+    {
+        "ID": 1,
+        "Titre": "Le Château",
+        "Auteur": "Franz Kafka",
+        "Année": 1926,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": null
+    },
+    {
+        "ID": 2,
+        "Titre": "Le Grondement de la montagne",
+        "Auteur": "Yasunari Kawabata",
+        "Année": 1945,
+        "Lu": true,
+        "Note": 8,
+        "Commentaire": "c'est parfait"
+    },
+    {
+        "ID": 3,
+        "Titre": "Le Carnet d'or",
+        "Auteur": "Doris Lessing",
+        "Année": 1962,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": null
+    },
+    {
+        "ID": 4,
+        "Titre": "Fifi Brindacier",
+        "Auteur": "Astrid Lindgren",
+        "Année": 1945,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": null
+    },
+    {
+        "ID": 5,
+        "Titre": "Les Fils de la Médina",
+        "Auteur": "Naguib Mahfouz",
+        "Année": 1959,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": null
+    },
+    {
+        "ID": 6,
+        "Titre": "Les Buddenbrook",
+        "Auteur": "Thomas Mann",
+        "Année": 1901,
+        "Lu": true,
+        "Note": 10,
+        "Commentaire": "j'ai trop aimer"
+    },
+    {
+        "ID": 7,
+        "Titre": "Beloved",
+        "Auteur": "Toni Morrison",
+        "Année": 1987,
+        "Lu": false,
+        "Note": null,
+        "Commentaire": null
+    }
+]
+
+[] 
+b5bf88a (Ajout du projet bibliothèque corrigé)
